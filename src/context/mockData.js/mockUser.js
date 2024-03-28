@@ -1,0 +1,38 @@
+export default {
+  login: "AlexandraTantos",
+  id: 114863064,
+  node_id: "U_kgDOBtir2A",
+  avatar_url: "https://avatars.githubusercontent.com/u/114863064?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/AlexandraTantos",
+  html_url: "https://github.com/AlexandraTantos",
+  followers_url: "https://api.github.com/users/AlexandraTantos/followers",
+  following_url:
+    "https://api.github.com/users/AlexandraTantos/following{/other_user}",
+  gists_url: "https://api.github.com/users/AlexandraTantos/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/AlexandraTantos/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/AlexandraTantos/subscriptions",
+  organizations_url: "https://api.github.com/users/AlexandraTantos/orgs",
+  repos_url: "https://api.github.com/users/AlexandraTantos/repos",
+  events_url: "https://api.github.com/users/AlexandraTantos/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/AlexandraTantos/received_events",
+  type: "User",
+  site_admin: false,
+  name: " Alexandra-Bianca",
+  company: null,
+  blog: "",
+  location: "Targu-Mures",
+  email: "alexandra.tantos@yahoo.com",
+  hireable: null,
+  bio: "Computer Science Student",
+  twitter_username: null,
+  public_repos: 16,
+  public_gists: 2,
+  followers: 10,
+  following: 100,
+  created_at: "2022-10-02T12:34:53Z",
+  updated_at: "2024-03-18T19:25:24Z",
+};
